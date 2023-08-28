@@ -1,0 +1,4 @@
+motor.c:10:6:initMotor	1
+motor.c:26:6:endisMotor	1
+motor.c:31:6:changeDirMotor	1
+motor.c:36:6:velMotor	5

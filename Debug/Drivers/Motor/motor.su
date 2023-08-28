@@ -1,0 +1,4 @@
+../Drivers/Motor/motor.c:10:6:initMotor	24	static
+../Drivers/Motor/motor.c:26:6:endisMotor	16	static
+../Drivers/Motor/motor.c:31:6:changeDirMotor	16	static
+../Drivers/Motor/motor.c:36:6:velMotor	24	static
